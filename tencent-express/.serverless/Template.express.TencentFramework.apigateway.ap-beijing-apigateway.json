@@ -1,0 +1,23 @@
+{
+  "protocols": [
+    "http",
+    "https"
+  ],
+  "subDomain": "service-msz65zxj-1255719450.bj.apigw.tencentcs.com",
+  "environment": "release",
+  "region": "ap-beijing",
+  "service": {
+    "value": "service-msz65zxj",
+    "created": true
+  },
+  "apis": [
+    {
+      "path": "/",
+      "method": "ANY",
+      "apiId": {
+        "value": "api-a3sfiiec",
+        "created": true
+      }
+    }
+  ]
+}

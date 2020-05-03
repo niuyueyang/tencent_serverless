@@ -1,0 +1,21 @@
+MyComponent:
+  component: '@serverless/tencent-egg'
+  inputs:
+    region: ap-guangzhou
+    functionName: egg-function
+    runtime: Nodejs8.9
+    code: ./
+    functionConf:
+      timeout: 10
+      memorySize: 128
+      environment:
+        variables:
+          TEST: vale
+      vpcConfig:
+        subnetId: ''
+        vpcId: ''
+    apigatewayConf:
+      protocols:
+      - https
+      - http
+      environment: release

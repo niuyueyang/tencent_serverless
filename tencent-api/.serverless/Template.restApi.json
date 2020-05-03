@@ -1,0 +1,22 @@
+{
+  "protocols": [
+    "http"
+  ],
+  "subDomain": "service-i7gva9xh-1255719450.bj.apigw.tencentcs.com",
+  "environment": "release",
+  "region": "ap-beijing",
+  "service": {
+    "value": "service-i7gva9xh",
+    "created": true
+  },
+  "apis": [
+    {
+      "path": "/users",
+      "method": "GET",
+      "apiId": {
+        "value": "api-llpiyv8k",
+        "created": true
+      }
+    }
+  ]
+}

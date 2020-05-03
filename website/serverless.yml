@@ -1,0 +1,11 @@
+# serverless.yml
+
+myWebsite:
+  component: "@serverless/tencent-website"
+  inputs:
+    code:
+      src: ./code
+      index: index.html
+      error: index.html
+    region: ap-beijing
+    bucketName: my-bucket

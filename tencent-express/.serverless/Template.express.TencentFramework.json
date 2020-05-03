@@ -1,0 +1,18 @@
+{
+  "functionName": "express_component_hqmumd",
+  "functionOutputs": {
+    "Name": "express_component_hqmumd",
+    "Runtime": "Nodejs8.9",
+    "Handler": "serverless-handler.handler",
+    "MemorySize": 128,
+    "Timeout": 3,
+    "Region": "ap-shanghai",
+    "Namespace": "default",
+    "Description": "This is a function created by serverless component",
+    "layers": []
+  },
+  "region": "ap-shanghai",
+  "apiGatewayServiceId": "service-0k7k4c81",
+  "url": "http://service-0k7k4c81-1255719450.sh.apigw.tencentcs.com/release/",
+  "cns": []
+}

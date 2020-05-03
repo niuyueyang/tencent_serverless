@@ -1,0 +1,18 @@
+{
+  "functionName": "egg-function",
+  "functionOutputs": {
+    "Name": "egg-function",
+    "Runtime": "Nodejs8.9",
+    "Handler": "serverless-handler.handler",
+    "MemorySize": 128,
+    "Timeout": 10,
+    "Region": "ap-guangzhou",
+    "Namespace": "default",
+    "Description": "This is a function created by serverless component",
+    "layers": []
+  },
+  "region": "ap-guangzhou",
+  "apiGatewayServiceId": "service-q7saoeh8",
+  "url": "https://service-q7saoeh8-1255719450.gz.apigw.tencentcs.com/release/",
+  "cns": []
+}

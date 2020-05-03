@@ -1,0 +1,16 @@
+{
+  "deployed": {
+    "Name": "express_component_hqmumd",
+    "Runtime": "Nodejs10.15",
+    "Handler": "serverless-handler.handler",
+    "MemorySize": 128,
+    "Timeout": 3,
+    "Region": "ap-beijing",
+    "Namespace": "default",
+    "Description": "This is a function created by serverless component",
+    "layers": []
+  },
+  "codeHash": "560a1130774257d93cc60756928eb573",
+  "Bucket": "sls-cloudfunction-ap-beijing-code",
+  "Key": "sls-cloudfunction-default-express_component_hqmumd-1588509081.zip"
+}

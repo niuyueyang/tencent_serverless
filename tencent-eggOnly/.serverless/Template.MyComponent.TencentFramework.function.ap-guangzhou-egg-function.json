@@ -1,0 +1,16 @@
+{
+  "deployed": {
+    "Name": "egg-function",
+    "Runtime": "Nodejs8.9",
+    "Handler": "serverless-handler.handler",
+    "MemorySize": 128,
+    "Timeout": 10,
+    "Region": "ap-guangzhou",
+    "Namespace": "default",
+    "Description": "This is a function created by serverless component",
+    "layers": []
+  },
+  "codeHash": "7f299ca97fca9c3c99f19993fe712ce1",
+  "Bucket": "sls-cloudfunction-ap-guangzhou-code",
+  "Key": "sls-cloudfunction-default-egg-function-1588518569.zip"
+}
